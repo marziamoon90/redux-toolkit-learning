@@ -23,4 +23,4 @@ export const authSlice = createSlice({
   }
 })
 
-console.log('auth slice', authSlice)
+// console.log('auth slice', authSlice)
